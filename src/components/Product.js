@@ -1,10 +1,11 @@
 import React from "react";
+import Carousel from "./Carousel";
 
 class Product extends React.Component {
   render() {
     return (
       <div>
-        <h3>Hello from Product</h3>
+        <Carousel />
       </div>
     );
   }

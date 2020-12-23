@@ -28,7 +28,7 @@ class Navbar extends React.Component {
             <span className="mr-2">
               <i className="fas fa-cart-plus" />
             </span>
-            my cart
+            cart
           </ButtonContainer>
         </Link>
       </NavWarapper>
